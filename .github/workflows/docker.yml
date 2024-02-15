@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: | #
             aluesc0557/animal-farm-nodejs:latest
-            ghcr.io/CarmenEscrig/animal-farm-nodejs:latest
+            ghcr.io/carmenescrig/animal-farm-nodejs:latest
